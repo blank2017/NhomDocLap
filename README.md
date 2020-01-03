@@ -1,4 +1,5 @@
 # NhomDocLap
 
-Creat New Branch succesfull
-Update sourch to New Branch succesfull
+#Creat New Branch succesfull
+
+#Update sourch to New Branch succesfull
